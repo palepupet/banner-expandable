@@ -1,0 +1,9 @@
+{
+  "name": "banner-expandable",
+  "version": "0.1.1",
+  "description": "A simple expandable banner",
+  "main": "BannerExpandable.js",
+  "author": "Ongaro David",
+  "license": "MIT",
+  "keywords": ["banner", "expandable"]
+}
